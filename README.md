@@ -5,7 +5,9 @@ PHP · MySQL · JavaScript · React · Node.js · Python · UI/UX
 
 🌐 Sitio online  
 https://iitfernando.github.io/sitiowebOficial/
+## Vista previa
 
+![Preview del sitio](preview.png)
 ---
 
 ## Sobre el proyecto
@@ -94,6 +96,7 @@ Gracias por visitar el proyecto.
 Me reinvento porque todavía tengo mucho para aportar.
 Gracias por pasar por acá.  
 Soy **Fernando Tula**. Me reinvento porque no dejé de tener algo para ofrecer.
+
 
 
 
